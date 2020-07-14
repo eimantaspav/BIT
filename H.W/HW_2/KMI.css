@@ -1,0 +1,44 @@
+p {
+    margin-inline-start: 3px;
+}
+
+h3 {
+    text-align: center;
+}
+
+.suvedimas {
+    display: inline-block;
+    background-color: pink;
+    width: 30%;
+    height: 180px;
+}
+
+.ugis_svoris {
+    display: inline-block;
+    width: 50%;
+    float: left;
+    background-color: yellow;
+    line-height: 30px;
+}
+
+.forma {
+    display: inline-block;
+    float: right;
+    margin-right: 10%;
+    line-height: 30px;
+
+}
+
+.reiksme {
+    display: block;
+    background-color:greenyellow;
+    width: 20%;
+}
+
+.kmi {
+    display: inline-block;
+    width: 50%;
+    float: left;
+    background-color: yellow;
+}
+
