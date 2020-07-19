@@ -13,8 +13,8 @@
     // SUKURIAMAS ARRAY SU VALUE VARDU IR KEY SVORIU 
     $people = array(
         "Mikelandzelas" => 100,
-        "Rafaelis" => 130,
-        "Donatelas" => 120,
+        "Rafaelis" => 130, 
+        "Donatelas" => 120, 
         "Leonardas" => 107
     );
 
